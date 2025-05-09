@@ -36,15 +36,7 @@ An interactive, gamified platform designed to help users master **Data Structure
 
 ---
 
-## 📸 Screenshots
 
-| Dashboard | Puzzle Challenge | AI Mentor Chat |
-|----------|------------------|----------------|
-| ![Dashboard](./screenshots/dashboard.png) | ![Puzzle](./screenshots/puzzle.png) | ![AI Mentor](./screenshots/ai-mentor.png) |
-
-> _(Add your actual screenshots in the `/screenshots` folder)_
-
----
 
 ## 🧑‍💻 Getting Started
 
